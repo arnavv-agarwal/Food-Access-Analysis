@@ -53,6 +53,10 @@ for index, row in cdc_fda_main_deploy_filtered.iterrows():
 map_obj.save("food_access_map.html")
 map_obj
 ```
+<p align="center">
+  <img width="1000" height="633" src="https://github.com/arnavv-agarwal/Food-Access-Analysis/blob/main/FA1.png">
+</p>
+
 - How many people will be included? How many might be successfully engaged?
   - <p align="justify">The blue color represents the population that will be included in the program, while the red color represents the population that has the potential to engage with the program. This differentiation allows us to visually understand the overlap and distinction between the two groups, providing valuable insights into program coverage and potential reach.</p>
 ```python 
@@ -69,6 +73,10 @@ fig = px.bar(state_totals, x='StateAbbr', y=['MA_POP_FInsec', 'Eng_Pop'],
 fig.show()
 ```
 
+<p align="center">
+  <img width="1062" height="525" src="https://github.com/arnavv-agarwal/Food-Access-Analysis/blob/main/FA2.png">
+</p>
+
 - Which subgroup of the population might benefit the most from the program?
   - <p align="justify">In the below visualization, the red color represents a specific segment of the engaged population that would benefit the most from the food access program. This segment comprises individuals who exceed the national poverty rate and face food insecurity. Furthermore, this population subset also includes individuals with low income levels and limited access to stores. By highlighting this group, we can identify and prioritize the individuals who are most in need of support and intervention from the food access program, addressing their specific challenges related to poverty, food insecurity, and limited access to stores.</p>
 ```python 
@@ -84,6 +92,10 @@ fig = px.bar(state_totals, x='StateAbbr', y=['Eng_Pop', 'MA_POP_LILACC'],
 # Display the chart
 fig.show()
 ```
+<p align="center">
+  <img width="1062" height="525" src="https://github.com/arnavv-agarwal/Food-Access-Analysis/blob/main/FA3.png">
+</p>
+
 - What is the projected impact of this program?
   - To assess the success of the Food Access Program, we will focus on three key factors:
       - Food Insecurity
