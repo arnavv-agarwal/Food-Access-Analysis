@@ -54,7 +54,7 @@ map_obj.save("food_access_map.html")
 map_obj
 ```
 <p align="center">
-  <img width="1000" height="633" src="https://github.com/arnavv-agarwal/Food-Access-Analysis/blob/main/FA1.png">
+  <img width="500" height="300" src="https://github.com/arnavv-agarwal/Food-Access-Analysis/blob/main/FA1.png">
 </p>
 
 - How many people will be included? How many might be successfully engaged?
@@ -74,7 +74,7 @@ fig.show()
 ```
 
 <p align="center">
-  <img width="1062" height="525" src="https://github.com/arnavv-agarwal/Food-Access-Analysis/blob/main/FA2.png">
+  <img width="800" height="400" src="https://github.com/arnavv-agarwal/Food-Access-Analysis/blob/main/FA2.png">
 </p>
 
 - Which subgroup of the population might benefit the most from the program?
