@@ -1,13 +1,13 @@
 ## Overview
-This project aims to address the critical issue of food insecurity within national Medicare Advantage plans by deploying a targeted food access program. Leveraging publicly available data from the CDC's 500 Cities Project and the FDA's Food Atlas, the analysis identifies areas with high poverty rates and food insecurity to optimize program impact.
+<p align="justify">This project aims to address the critical issue of food insecurity within national Medicare Advantage plans by deploying a targeted food access program. Leveraging publicly available data from the CDC's 500 Cities Project and the FDA's Food Atlas, the analysis identifies areas with high poverty rates and food insecurity to optimize program impact.</p>
 
 ## Interactive Visualization
 To view the interactive visualizations along with the entire code, please visit [nbviewer](https://nbviewer.org/github/arnavv-agarwal/Food-Access-Analysis/blob/main/Food_Access_Analysis.ipynb).
 
-Through this analysis, we anticipate a significant reduction in food insecurity, low access to stores, and poverty rates in targeted regions, thereby enhancing the well-being of Medicare Advantage plan members.
+<p align="justify">Through this analysis, we anticipate a significant reduction in food insecurity, low access to stores, and poverty rates in targeted regions, thereby enhancing the well-being of Medicare Advantage plan members.</p>
 
 ## Objective
-The primary objective is to provide actionable insights for deploying a food access program that maximizes impact on the Medicare Advantage plan's membership. This involves determining deployment locations, estimating program reach, identifying target populations, and projecting the program's impact.
+<p align="justify">The primary objective is to provide actionable insights for deploying a food access program that maximizes impact on the Medicare Advantage plan's membership. This involves determining deployment locations, estimating program reach, identifying target populations, and projecting the program's impact.</p>
 
 ## Features
 - Utilization of CDC's 500 Cities Project and FDA's Food Atlas data.
