@@ -19,7 +19,7 @@ To view the interactive visualizations along with the entire code, please visit 
 
 ## Technology Stack
 - Python for data analysis and visualization (using libraries like Pandas, Matplotlib, and Seaborn).
-- Geographic Information System (GIS) for spatial data analysis.
+- Folium for spatial data analysis.
 - Pandas for data aggregation and manipulation.
 
 ## Data
