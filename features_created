@@ -1,0 +1,16 @@
+Features Created:
+
+MedCAccess: Population with health insurance
+MA_POP: Estimated Popuplation with Medical Advantage Plan
+MA_POP_FInsec: Estimated Medical Advantage Plan population which have food insecurity - Potential target population
+Eng_Pop: Estimated Population which might succefully engage with the food access program
+MA_POP_LILACC: Population with MA Plan who are insecure and have low income and access to food
+FOODINSEC_Pop: % Food insecure population by state
+LACCESS_Pop: % Population which has low access to stores
+POV_Pop: % Population living in poverty
+FOODINSE_Ben_Pop: Population with food insecurity after the deployent of Food Access Program
+LACCESS_Ben_Pop: Population with low access to stores after the deployent of Food Access Program
+POV_Ben_Pop: Population living in poverty after the deployent of Food Access Program
+Proj_FOODINSEC: % Projected poverty rate by states after successful deployent of Food Access Program
+Proj_LACCESS: % Projected percentage of poluation with low access to store after successful deployent of Food Access Program
+Proj_POV: % Projected Population living in poverty after successful deployent of Food Access Program
