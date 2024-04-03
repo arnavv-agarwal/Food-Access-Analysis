@@ -93,7 +93,7 @@ fig = px.bar(state_totals, x='StateAbbr', y=['Eng_Pop', 'MA_POP_LILACC'],
 fig.show()
 ```
 <p align="center">
-  <img width="600" height="200" src="https://github.com/arnavv-agarwal/Food-Access-Analysis/blob/main/FA3.png">
+  <img width="800" height="400" src="https://github.com/arnavv-agarwal/Food-Access-Analysis/blob/main/FA3.png">
 </p>
 
 - What is the projected impact of this program?
